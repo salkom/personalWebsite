@@ -1,0 +1,11 @@
+.my-photo {
+  width: 8em;
+}
+
+.list-footer {
+  list-style-type: none
+}
+
+.list-footer li {
+  display: inline;
+}
